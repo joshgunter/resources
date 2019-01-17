@@ -3,8 +3,9 @@
 ### Courses
 - [Open Source University CS Curriculum](https://github.com/ossu/computer-science)
 
-### Tutorials
+### Interactive Tutorials
 - [Command Line Challenge](https://about.cmdchallenge.com/)
+- [Exercism](https://exercism.io/)
 
 ### Videos
 
