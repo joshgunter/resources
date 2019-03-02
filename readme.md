@@ -7,6 +7,10 @@
 - [Command Line Challenge](https://about.cmdchallenge.com/)
 - [Exercism](https://exercism.io/)
 
+### Games
+- [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
+- [Grid Critters](http://www.gridcritters.com/)
+
 ### Videos
 
 ### Blog Posts 
